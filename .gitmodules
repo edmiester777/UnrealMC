@@ -1,0 +1,3 @@
+[submodule "third-party/mc-proto"]
+	path = third-party/mc-proto
+	url = https://github.com/edmiester777/mc-proto.git
